@@ -1,0 +1,18 @@
+{
+  "extends": [
+    "config:base"
+  ],
+  "enabledManagers": ["npm"],
+  "automerge": true,
+  "timezone": "America/New_York",
+  "lockFileMaintenance": {
+    "enabled": true
+  },
+  "separatePatchReleases": true,
+  "separateMultipleMajor": true,
+  "masterIssue": true,
+  "labels": [
+    "type: dependencies",
+    "renovate"
+  ]
+}
