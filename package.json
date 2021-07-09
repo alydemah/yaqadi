@@ -28,7 +28,7 @@
   "devDependencies": {
 
     "@types/node": "12.12.54",
-    "@types/jasmine": "3.5.14",
+    "@types/jasmine": "3.8.1",
     "@types/jasminewd2": "2.0.8",
     "codelyzer": "6.0.0",
     "jasmine-core": "3.5.0",
