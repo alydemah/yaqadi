@@ -21,7 +21,7 @@
     "@angular/router": "12.2.17",
     "@ngx-translate/core": "13.0.0",
     "@ngx-translate/http-loader": "6.0.0",
-    "rxjs": "6.5.5",
+    "rxjs": "7.8.0",
     "tslib": "2.0.1",
     "zone.js": "0.11.4"
   },
